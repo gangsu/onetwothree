@@ -1,0 +1,14 @@
+{
+  "name": "onetwothree",
+  "version": "1.0.0",
+  "description": "one two three",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "qs": "^6.11.2"
+  }
+}
